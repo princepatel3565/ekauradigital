@@ -164,7 +164,7 @@ p.lead{ color:var(--muted); font-size: clamp(15px, 2.1vw, 18px); margin:0 0 24px
 @media (max-width:520px){
   body{ overflow:auto }
   main.container{ padding:18px; padding-bottom: calc(18px + env(safe-area-inset-bottom)) }
-  .card{ border-radius:20px; padding:20px;   box-shadow: 0 12px 40px rgba(0,0,0,.5), inset 0 0 0 1px rgba(255,255,255,.04) }
+  .card{ border-radius:20px; padding:20px; width: auto; box-shadow: 0 12px 40px rgba(0,0,0,.5), inset 0 0 0 1px rgba(255,255,255,.04) }
 
   .brand{ margin-bottom:10px }
   .logo{ width:44px; height:44px }
