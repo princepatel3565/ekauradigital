@@ -35,7 +35,7 @@ export default function Home() {
   <a href="https://namrata-72269.medium.com/" target="_blank" className="socialicon chip chip1"><i className="fab fa-medium fa-2x"></i></a>
   <a href="https://wa.me/916356903360?text=Hello%20EKAURA%20DIGITAL,%20I%20have%20a%20project%20query" target="_blank" className="socialicon chip"><i className="fab fa-whatsapp fa-2x"></i></a>
   <a href="https://www.linkedin.com/in/prince-sanja/" target="_blank" className="socialicon chip"><i className="fa-brands fa-linkedin fa-2x"></i></a>
-  <a href="mailto:ekauradigital@gmail.com" className="socialicon chip"><i className="fa-solid fa-envelope fa-2x"></i></a>
+  <a href="mailto:hello@ekauradigital.com" className="socialicon chip"><i className="fa-solid fa-envelope fa-2x"></i></a>
     </div>
       <div className="bottom-link-name"><a href="https://www.ekauradigital.com">www.ekauradigital.com</a>
     {/* <div className="bottom-link-contact">Contact Us: <a href="tel:+917228881307">+91 7228881307</a></div> */}
