@@ -15,9 +15,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ekaura Digital",
   description: "Ekaura Digital — Coming Soon",
-  icons: {
-    icon: "/favicon.svg",
-  }
+   icons: [
+    { url: "/favicon.png", sizes: "97x96", type: "image/png" },
+    { url: "/favicon.svg", type: "image/svg+xml" },
+  ]
 };
 
 export default function RootLayout({
